@@ -1,4 +1,4 @@
-# Python
+# Python task 3
  This program adds two numbers
 
 num1 = 1.5
